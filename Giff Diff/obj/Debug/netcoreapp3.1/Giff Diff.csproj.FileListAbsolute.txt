@@ -1,0 +1,11 @@
+C:\Users\withe\OneDrive\Desktop\Assignments\Object Oriented Programming\Giff Diff\obj\Debug\netcoreapp3.1\Giff Diff.csprojAssemblyReference.cache
+C:\Users\withe\OneDrive\Desktop\Assignments\Object Oriented Programming\Giff Diff\obj\Debug\netcoreapp3.1\Giff Diff.AssemblyInfoInputs.cache
+C:\Users\withe\OneDrive\Desktop\Assignments\Object Oriented Programming\Giff Diff\obj\Debug\netcoreapp3.1\Giff Diff.AssemblyInfo.cs
+C:\Users\withe\OneDrive\Desktop\Assignments\Object Oriented Programming\Giff Diff\bin\Debug\netcoreapp3.1\Giff Diff.exe
+C:\Users\withe\OneDrive\Desktop\Assignments\Object Oriented Programming\Giff Diff\bin\Debug\netcoreapp3.1\Giff Diff.deps.json
+C:\Users\withe\OneDrive\Desktop\Assignments\Object Oriented Programming\Giff Diff\bin\Debug\netcoreapp3.1\Giff Diff.runtimeconfig.json
+C:\Users\withe\OneDrive\Desktop\Assignments\Object Oriented Programming\Giff Diff\bin\Debug\netcoreapp3.1\Giff Diff.runtimeconfig.dev.json
+C:\Users\withe\OneDrive\Desktop\Assignments\Object Oriented Programming\Giff Diff\bin\Debug\netcoreapp3.1\Giff Diff.dll
+C:\Users\withe\OneDrive\Desktop\Assignments\Object Oriented Programming\Giff Diff\bin\Debug\netcoreapp3.1\Giff Diff.pdb
+C:\Users\withe\OneDrive\Desktop\Assignments\Object Oriented Programming\Giff Diff\obj\Debug\netcoreapp3.1\Giff Diff.dll
+C:\Users\withe\OneDrive\Desktop\Assignments\Object Oriented Programming\Giff Diff\obj\Debug\netcoreapp3.1\Giff Diff.pdb
